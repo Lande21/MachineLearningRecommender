@@ -60,6 +60,8 @@ The script provides:
 1. Basic statistics on recipe times
 2. Visualizations of cuisine and diet distributions
 3. A filtered list of recipes matching user preferences with columns: name, cuisine, diet, and total time
+   <img width="489" height="180" alt="image" src="https://github.com/user-attachments/assets/fde27495-2bb7-4a6e-a1ac-79cf265ee95c" />
+
 
 ## Notes
 - Missing values in cuisine, course, and diet columns are removed
